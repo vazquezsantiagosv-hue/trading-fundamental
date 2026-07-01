@@ -1,0 +1,1 @@
+/usr/local/bin/python3 "/Users/santiago/Downloads/import yfinance as yf.py"
