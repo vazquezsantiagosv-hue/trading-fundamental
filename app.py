@@ -108,3 +108,8 @@ if tickers_usuario:
         * 🔍 **Atractivo por Valoración:** **{ticker_barato}** presenta el múltiplo *Price-to-Earnings* ($P/E$) más bajo del grupo examinado, lo que implica que es la empresa donde estás pagando menos por cada dólar de beneficio generado actualmente.
         * ⚡ **Eficiencia de Capital:** **{ticker_eficiente}** lidera el Retorno sobre el Capital (*ROE*), demostrando una capacidad superior para exprimir y rentabilizar los fondos de sus accionistas.
         * 🛡️ **Mitigación de Volatilidad:** Si buscás reducir la exposición sistémica antes de ejecutar una entrada técnica, **{ticker_defensivo}** es el activo con la *Beta* más
+o}** es el activo con la *Beta* más baja. Te va a ofrecer mayor estabilidad en escenarios de corrección.
+* 💰 **Salud de Caja (Oxígeno Financiero):** **{ticker_caja}** se destaca por registrar el mayor volumen de *Free Cash Flow* disponible, lo que reduce drásticamente su riesgo de liquidez y le otorga flexibilidad para recomprar acciones o pagar deuda.
+
+**Veredicto Crítico:** No te limites a comprar ciegamente el ticker con el gráfico técnico más lindo. Si tu estrategia busca valor puro, cruzá el patrón de reversión técnica con **{ticker_barato}**. Si preferís sumarte a una tendencia de fuerte *momentum* institucional respaldada por métricas operativas implacables, priorizá **{ticker_eficiente}**.
+""")
